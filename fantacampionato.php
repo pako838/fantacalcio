@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: Primo
+Plugin Name: fantacampionato
 Plugin URI: torneo.fantacampionatoonline.com/
-Description: Plugin per la creazione, sul tuo sito internet wordpress, di un torneo di fantacalcio 
+Description: Plugin per la creazione, sul tuo sito internet wordpress, di un torneo di fantacalcio Installazione : 1) Fare clic sul link "Attiva" a sinistra di questa descrizione 2) Inserire nella pagina desiderata il tag : [fantacampionato]
 Author: Diego
 Version: 1.0
 Author URI: www.fantacampionatoonline.com
